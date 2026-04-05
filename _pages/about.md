@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: hou.yuchen@northeastern.edu. Some things are too important to be taken seriously.
+subtitle: hou.yuchen@northeastern.edu.
 
 profile:
   align: right
@@ -10,6 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Boston, MA</p>
+    <p>Some things are too important to be taken seriously.<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,5 +26,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year Ph.D. student at Northeastern University, advised by Prof. Imani Mahdi. I am broadly interested in reinforcement learning and reasoning under uncertainty — how can agents learn to make good decisions when the world doesn't give them the full picture?
-Before coming to Boston, I earned my B.S. in Artificial Intelligence from Shanghai Jiao Tong University (SJTU), where I worked with Prof. Siheng Chen.
+I am a first-year Ph.D. student at Northeastern University, advised by [Prof. Imani Mahdi](https://imani.lab.northeastern.edu/). I am broadly interested in reinforcement learning and reasoning under uncertainty — how can agents learn to make good decisions when the world doesn't give them the full picture?
+Before coming to Boston, I earned my B.S. in Artificial Intelligence from Shanghai Jiao Tong University (SJTU), where I worked with [Prof. Siheng Chen](https://siheng-chen.github.io/).
