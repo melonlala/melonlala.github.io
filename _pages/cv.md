@@ -1,12 +1,8 @@
 ---
-layout: cv-pdf
+layout: cv-redirect
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: /assets/pdf/cv.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description: This is a description of the page. 
-toc:
-  sidebar: left
+cv_pdf: /assets/pdf/cv.pdf
 ---
