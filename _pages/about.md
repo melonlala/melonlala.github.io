@@ -27,4 +27,4 @@ latest_posts:
 ---
 
 I am a first-year Ph.D. student at Northeastern University, advised by [Prof. Imani Mahdi](https://imani.lab.northeastern.edu/). I am broadly interested in reinforcement learning and reasoning under uncertainty — how can agents learn to make good decisions when the world doesn't give them the full picture?
-Before coming to Boston, I earned my B.S. in Artificial Intelligence from Shanghai Jiao Tong University (SJTU), where I worked with [Prof. Siheng Chen](https://siheng-chen.github.io/).
+Before coming to Boston, I earned my B.S. in Artificial Intelligence from Shanghai Jiao Tong University (SJTU), where I worked with [Prof. Siheng Chen](https://siheng-chen.github.io/) and [Prof. Wenguang Shao](https://life.sjtu.edu.cn/teacher/En/shaowenguang).
