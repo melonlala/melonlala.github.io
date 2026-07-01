@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-07-01'
 papers:
   PNBSs3cAAAAJ:9yKSN-GCB0IC:
     citations: 1
     title: 'AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios'
     year: '2026'
   PNBSs3cAAAAJ:d1gkVwhDpl0C:
-    citations: 3
+    citations: 4
     title: 'FLORA: GNNs as Predictors of Agentic Workflow Performances'
     year: Unknown Year
   PNBSs3cAAAAJ:qjMakFHDy7sC:
@@ -14,10 +14,10 @@ papers:
     title: 'FedQHD: Closed-Form Function-Space Federated Reinforcement Learning'
     year: '2026'
   PNBSs3cAAAAJ:u-x6o8ySG0sC:
-    citations: 16
+    citations: 17
     title: Gnns as predictors of agentic workflow performances
     year: '2025'
   PNBSs3cAAAAJ:u5HHmVD_uO8C:
-    citations: 80
+    citations: 87
     title: Self-evolving multi-agent collaboration networks for software development
     year: '2025'
