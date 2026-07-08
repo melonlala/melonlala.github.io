@@ -405,16 +405,29 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-paper-self-evolving-multi-agent-collaboration-networks-for-software-development-is-accepted-to-iclr-2025",
+          title: 'Our paper Self-Evolving Multi-Agent Collaboration Networks for Software Development is accepted to ICLR...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-joined-northeastern-university-as-a-ph-d-student-in-electrical-engineering-advised-by-prof-mahdi-imani",
+          title: 'I joined Northeastern University as a Ph.D. student in Electrical Engineering, advised by...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-gnns-as-predictors-of-agentic-workflow-performances-is-accepted-on-learning-on-graphs-conference-2025",
+          title: 'Our paper GNNs as Predictors of Agentic Workflow Performances is accepted on Learning...',
+          description: "",
+          section: "News",},{id: "news-our-paper-agentif-oneday-a-task-level-instruction-following-benchmark-for-general-ai-agents-in-daily-scenarios-is-now-available-on-arxiv",
+          title: 'Our paper AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily...',
+          description: "",
+          section: "News",},{id: "news-our-paper-fedqhd-closed-form-function-space-federated-reinforcement-learning-is-now-available-on-arxiv",
+          title: 'Our paper FedQHD: Closed-Form Function-Space Federated Reinforcement Learning is now available on arXiv....',
+          description: "",
+          section: "News",},{id: "news-i-received-the-outstanding-bachelor-s-thesis-award-from-the-school-of-computer-science-at-shanghai-jiao-tong-university-sjtu",
+          title: 'I received the Outstanding Bachelor’s Thesis Award from the School of Computer Science...',
+          description: "",
+          section: "News",},{id: "news-our-paper-finite-sample-regret-analysis-of-nash-q-learning-with-random-feature-approximation-is-accpected-to-the-conference-on-uncertainty-in-artificial-intelligence-uai-2026",
+          title: 'Our paper [Finite-Sample Regret Analysis of Nash Q-Learning with Random-Feature Approximation] is accpected...',
+          description: "",
+          section: "News",},{id: "news-i-became-an-authorized-mentor-for-the-nsf-cise-reu-program-mentoring-undergraduate-researcher-raymond-xu-https-github-com-bruvato-under-prof-mahdi-imani",
+          title: 'I became an Authorized Mentor for the NSF CISE REU Program, mentoring undergraduate...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
@@ -493,25 +506,11 @@ ninja.data = [{
           window.open("https://inspirehep.net/authors/1010907", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=PNBSs3cAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
         },
       },{
       id: 'light-theme',
