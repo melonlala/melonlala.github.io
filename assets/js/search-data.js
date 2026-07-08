@@ -431,7 +431,7 @@ ninja.data = [{
           title: 'Our paper FedQHD: Closed-Form Function-Space Federated Reinforcement Learning is now available on arXiv....',
           description: "",
           section: "News",},{id: "news-our-paper-finite-sample-regret-analysis-of-nash-q-learning-with-random-feature-approximation-is-accpected-to-the-conference-on-uncertainty-in-artificial-intelligence-uai-2026",
-          title: 'Our paper [Finite-Sample Regret Analysis of Nash Q-Learning with Random-Feature Approximation] is accpected...',
+          title: 'Our paper Finite-Sample Regret Analysis of Nash Q-Learning with Random-Feature Approximation is accpected...',
           description: "",
           section: "News",},{id: "news-i-became-an-authorized-mentor-for-the-nsf-cise-reu-program-mentoring-undergraduate-researcher-raymond-xu-under-prof-mahdi-imani",
           title: 'I became an Authorized Mentor for the NSF CISE REU Program, mentoring undergraduate...',
@@ -518,6 +518,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=PNBSs3cAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/melonlala", "_blank");
         },
       },{
       id: 'light-theme',
